@@ -39,6 +39,9 @@ A full-stack web application designed to track personal daily expenses, categori
 
 The most challenging part was ensuring seamless state synchronization between the front-end user interface and the back-end PostgreSQL database. Specifically, handling real-time statistical updates for the summary cards (total amount, expense count, and highest expense) after dynamically editing or filtering expenses, alongside providing proper error handling and alerts when server connection is lost.
 
-
+## Links
 -Video Link :
 https://drive.google.com/file/d/13TYky14JpMGp-dZ-FRVH63cty8r8FnLA/view?usp=sharing
+
+- **GitHub Repository:** [First Project Repository](https://github.com/nasserammar500-creator/First-Project1)
+
